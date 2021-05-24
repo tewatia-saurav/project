@@ -2,9 +2,10 @@ const SauravsFunction = () => {
   console.log('Created by Saurav');
 };
 
-const ManjunathFunction = () => {
-  console.log('Created by Manjunath🙂');
-};
+SauravsFunction()
 
-SauravsFunction();
-ManjunathFunction();
+const HimanshuFunction = () =>{
+    console.log("Created by Himanshu");
+}
+
+HimanshuFunction() 
