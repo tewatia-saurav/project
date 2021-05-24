@@ -1,5 +1,9 @@
-const SauravsFunction = () =>{
-    console.log("Created by Saurav");
-}
+const SauravsFunction = () => {
+  console.log('Created by Saurav');
+};
 
-SauravsFunction()
+const ManjunathFunction = () => {
+  console.log('Created by Manjunath🙂');
+};
+
+SauravsFunction();
