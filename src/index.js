@@ -7,3 +7,4 @@ const ManjunathFunction = () => {
 };
 
 SauravsFunction();
+ManjunathFunction();
