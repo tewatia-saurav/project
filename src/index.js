@@ -9,6 +9,11 @@ SauravsFunction();
   console.log('Created by Saurav');
 };
 
+<<<<<<< HEAD
+SauravsFunction()
+
+console.log("This is done by Mounika")
+=======
 const ManjunathFunction = () => {
   console.log('Created by Manjunath🙂');
 };
