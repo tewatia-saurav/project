@@ -3,3 +3,9 @@ const SauravsFunction = () =>{
 }
 
 SauravsFunction()
+
+const HimanshuFunction = () =>{
+    console.log("Created by Himanshu");
+}
+
+HimanshuFunction() 
